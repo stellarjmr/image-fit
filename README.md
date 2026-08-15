@@ -10,7 +10,7 @@ in Yazi.
 
 ## Compatibility
 
-Maintained against Yazi/Ya `26.5.6`.
+Maintained against Yazi/Ya `26.8.15`.
 
 ## Installation
 
